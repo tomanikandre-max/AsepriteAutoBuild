@@ -15,7 +15,7 @@ Compilar o Aseprite manualmente é famoso por dar muitos erros, principalmente c
 *   **Windows 10 ou 11 x64**.
 *   Conexão com a internet.
 #  Como usar:
-1. Vá na aba **Releases** aqui no GitHub e baixe o arquivo [AsepriteAutoBuild.exe](https://github.com/tomanikandre-max/AsepriteAutoBuild/releases/download/1.0.2/AsepriteAutoBuild.exe) ou [baixe o código fonte](https://github.com/tomanikandre-max/AsepriteAutoBuild/archive/refs/heads/main.zip) e use o compilador que prefere para compilar, de preferência [Visual Studio Community](https://aka.ms/vs/17/release/vs_community.exe), caso tenha dificuldades para compilar consulte [instruções.md](https://github.com/tomanikandre-max/AsepriteAutoBuild/blob/main/Instru%C3%A7%C3%B5es.md), ou se você não souber usar o programa consulte [Utilização.md](https://github.com/tomanikandre-max/AsepriteAutoBuild/blob/main/Utiliza%C3%A7%C3%A3o.md).
+1. Vá na aba **Releases** aqui no GitHub e baixe o arquivo [AsepriteAutoBuild.exe](https://github.com/tomanikandre-max/AsepriteAutoBuild/releases/download/1.0.5/Aseprite-Auto-Build.exe) ou [baixe o código fonte](https://github.com/tomanikandre-max/AsepriteAutoBuild/archive/refs/heads/main.zip) e use o compilador que prefere para compilar, de preferência [Visual Studio Community](https://aka.ms/vs/17/release/vs_community.exe), caso tenha dificuldades para compilar consulte [instruções.md](https://github.com/tomanikandre-max/AsepriteAutoBuild/blob/main/Instru%C3%A7%C3%B5es.md), ou se você não souber usar o programa consulte [Utilização.md](https://github.com/tomanikandre-max/AsepriteAutoBuild/blob/main/Utiliza%C3%A7%C3%A3o.md).
 2. Execute o Arquivo.
 3. Selecione a linguagem e o local onde instalar, e clique em instalar.
 
